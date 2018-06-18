@@ -1,6 +1,6 @@
 {
   "name": "cnj-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote que contém funções para geração e verificação dos digitos verificadores da numeração única, utilizada para organizar os processos no poder judiciário brasileiro. Saiba mais em http://www.cnj.jus.br/programas-e-acoes/pj-numeracao-unica",
   "main": "index.js",
   "scripts": {

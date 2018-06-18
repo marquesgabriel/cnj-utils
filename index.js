@@ -1,4 +1,4 @@
-//*
+/*
  * Função gera o numero de verificação do número unificado passado
  * @param  {String} numUnificado Numero unificado, contendo os pontos e traços
  * @return {Number}              Retorna o digito de verificação calculado a partir do parâmetro passado
@@ -14,7 +14,7 @@ export function generateNum(numUnificado){
   var digito = 98-(resto3 % 97)
   return digito;
 }
-//*
+/*
  * Função verifica se o digito verificador do numero unificado é válido
  * @param  {String} numUnificado Numero unificado, contendo os pontos e traços
  * @return {Boolean}              Retorna true se válido, e false se inválido
